@@ -1,0 +1,44 @@
+/**
+ * Copyright (c) 2020, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
+ *
+ * WSO2 Inc. licenses this file to you under the Apache License,
+ * Version 2.0 (the "License"); you may not use this file except
+ * in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ *
+ */
+/**
+ * Class containing Email Template Types constants.
+ */
+export declare class EmailTemplateTypesListPageConstants {
+    /**
+     * Private constructor to avoid object instantiation from outside
+     * the class.
+     *
+     * @hideconstructor
+     */
+    private constructor();
+    static readonly TABLE_DATA_ATTR: string;
+    static readonly TABLE_BODY_DATA_ATTR: string;
+    static readonly TABLE_ROW_DATA_ATTR: string;
+    static readonly TABLE_ROW_HEADING_DATA_ATTR: string;
+    static readonly TABLE_ROW_EDIT_BUTTON_DATA_ATTR: string;
+    static readonly TABLE_ROW_DELETE_BUTTON_DATA_ATTR: string;
+    static readonly TABLE_ROW_IMAGE_DATA_ATTR: string;
+    static readonly PAGE_LAYOUT_HEADER_DATA_ATTR: string;
+    static readonly PAGE_LAYOUT_HEADER_TITLE_DATA_ATTR: string;
+    static readonly PAGE_LAYOUT_HEADER_SUB_TITLE_DATA_ATTR: string;
+    static readonly PAGE_LAYOUT_HEADER_ACTION: string;
+    static readonly ADD_WIZARD_DATA_ATTR: string;
+    static readonly CREATE_TEMPLATE_TYPE_BUTTON_DATA_ATTR: string;
+    static readonly TEMPLATE_TYPE_NAME_INPUT_DATA_ATTR: string;
+}

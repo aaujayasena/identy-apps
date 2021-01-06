@@ -1,0 +1,1 @@
+{"version":3,"file":"i18n-module-exception.js","sourceRoot":"","sources":["../../../src/exceptions/i18n-module-exception.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;;;;;;;GAgBG;;;AAEH,wDAAsE;AACtE,4CAAmD;AAEnD;;GAEG;AACH,MAAa,mBAAoB,SAAQ,wCAA2B;IAEhE;;;;OAIG;IACH,YAAY,OAAgB,EAAE,KAAW;QACrC,KAAK,CAAC,OAAO,EAAE,KAAK,EAAE,+BAAmB,CAAC,WAAW,CAAC,CAAC;IAC3D,CAAC;CACJ;AAVD,kDAUC"}

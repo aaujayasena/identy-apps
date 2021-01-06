@@ -1,0 +1,10 @@
+{
+    "category": "DEFAULT",
+    "description": "Traditional web applications which uses re-directions.",
+    "enabled": true,
+    "displayOrder": 1,
+    "id": "web-application",
+    "image": "oidcWebApp",
+    "name": "Traditional Web Application",
+    "subTemplatesSectionTitle": "Protocols"
+}
